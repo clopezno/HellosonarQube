@@ -1,2 +1,2 @@
 # HellosonarQube
-Como integrar sonarqube with actions.
+Como integrar sonarqube with actions..
