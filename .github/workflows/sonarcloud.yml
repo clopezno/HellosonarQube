@@ -1,7 +1,9 @@
 name: SonarCloud analysis
+
 on:
   push:
     branches: [ "main" ] 
+    
 jobs:
   Analysis:
     runs-on: ubuntu-latest
